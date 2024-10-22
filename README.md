@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Olà, meu nome é Leandro, tenho 19 anos, atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UCDB (Universidade Católica Dom Bosco) e Técnico em Desenvolvimento de Sistemas no Senac Hub Academy em Campo Grande-MS. Apaixonado por tecnologia e desenvolvimento de software, estou sempre buscando oportunidades para aprender e aplicar novas habilidades em projetos desafiadores. Com um forte interesse em resolver problemas através da tecnologia, tenho um compromisso contínuo com a inovação e o aprimoramento das minhas competências técnicas.</p>
+<p align="center">Olà, meu nome é Leandro, tenho 19 anos, atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UCDB (Universidade Católica Dom Bosco) e em Desenvolvimento de Sistemas no Senac Hub Academy em Campo Grande-MS. Apaixonado por tecnologia e desenvolvimento de software, estou sempre buscando oportunidades para aprender e aplicar novas habilidades em projetos desafiadores. Com um forte interesse em resolver problemas através da tecnologia, tenho um compromisso contínuo com a inovação e o aprimoramento das minhas competências técnicas.</p>
 
 #
 
