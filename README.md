@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Olá, Meu nome é Leandro, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na UCDB e de Desenvolvimento de Sistemas no Senac Hub Academy, em Campo Grande-MS. Com grande interesse em desenvolvimento de software, busco constantemente expandir meus conhecimentos e aplicar minhas habilidades em projetos desafiadores. Comprometido com a inovação e a resolução de problemas, foco no aprimoramento contínuo das minhas competências técnicas para contribuir de forma eficaz com soluções práticas e impactantes.</p>
+<p align="center">Olá, Meu nome é Leandro, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na UCDB e de Desenvolvimento de Sistemas no Senac Hub Academy, em Campo Grande-MS. Com grande interesse em desenvolvimento de software, busco constantemente expandir meus conhecimentos e aplicar minhas habilidades em projetos desafiadores. Comprometido com a inovação e a resolução de problemas, foco no aprimoramento contínuo das minhas competências técnicas para contribuir de forma eficaz com soluções práticas e impactantes.</p>
 
 #
 
